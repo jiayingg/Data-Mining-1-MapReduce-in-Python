@@ -1,0 +1,7 @@
+The input file is in .json and you should use it as the input of your code.
+
+The uploaded output .txt file is only to show you the format.  It doesn't mean you will save your output to or submit a .txt file. 
+
+You are required to output to the standard out and must not redirect it to any files. 
+
+Check README.txt for details.
