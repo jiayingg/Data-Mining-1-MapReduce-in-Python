@@ -13,6 +13,7 @@ For every indirect connection, say X and Y connected via Z as described above, o
 The input will be provided as a JSON document where each line represents an edge on the graph. For example:
 
 [“john”, “mary”]
+
 [“mary”, “david”] 
 
 ## Problem 2 
@@ -25,4 +26,5 @@ Var(X) = E[(X-E[X])^2] = E[X^2] - (E[X])^2
 Here is the sample input: 
 
 [3, 5, 11, 2, 5]
+
 [2, 8, 22, 92, 123, 78] 
