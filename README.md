@@ -20,7 +20,7 @@ The input will be provided as a JSON document where each line represents an edge
 
 In this problem, you are provided with a large number of integers, pre-divided into chunks, with each chunk stored as a line (an JSON array) in the input file (see below). Your task is to compute the variance of the integers using MapReduce. Recall that the variance can be computed as the average of X2 minus the square of the average of X, as show below. 
 
-$$ Var(X) = E[(X-E[X]^2] $$
+$ Var(X) = E[(X-E[X]^2] $
 
 Here is the sample input: 
 
