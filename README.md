@@ -61,7 +61,7 @@ Problem 1 (Social network: finding connections)
 
 In this problem, consider a social graph where nodes are people and edges represent their friendship. You are to write a MapReduce program to find indirect connection between two people.
 
-<img src="Data_Mining_1_MapReduce_in_Python_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
+<img src="net.png" style="display: block; margin: auto;" />
 
 There is an indirect connection between two persons X and Y if X and Y are connected via a third person Z. In other words, there exist edges (X, Z) and (Z, Y). For example, there is an indirect connection between “john” and “david” since both are connected to “mary”. Note that in this problem, we assume that X and Y may also be directly connected (i.e., there is an edge between X and Y) even though there may exist some indirect connections between X and Y.
 
