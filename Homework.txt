@@ -1,9 +1,0 @@
-1. Please see Algorithms in MapReduce-Sp 16.pdf for details.
-
-2. The Python MapReduce Framework is provided to you as MapReduce.py, and you should make no changes to it. When testing, make sure MapReduce.py is in the same directory as your solution script.
-
-3. Demo code for word count and matrix multiplication the Professor showed in class can be found in "Content/Lecture Slides/MapReduce in Python"
-
-4. Please follow exactly the output format as given in sample (will be uploaded to blackboard soon).
-
-5. Submit each .py file separately, do not make them into a .zip.
